@@ -13,5 +13,8 @@ I denne oppgaven skal du lage samme funksjonaliteten med web komponenter. I file
 NB, i oppgave/www/node_modules ligger lit-element med de endringer som skal til for at det fungerer uten å bruke "polymer serve" (dvs, koden fungerer direkte i docker/XAMPP).
 
 
-Kandidatnummer: 10007
+
+
 The code in edit-user.js was inspired by a previous exam solution done by HermanDyrkon.
+
+Kandidatnummer: 10007
